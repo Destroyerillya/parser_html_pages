@@ -1,0 +1,14 @@
+beautifulsoup4==4.9.1
+click==7.1.2
+decorator==4.4.2
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+lxml==4.5.0
+MarkupSafe==1.1.1
+prettytable==0.7.2
+PyInstaller==3.6
+pytools==2020.1
+requests==2.24.0
+setuptools-git==1.2
+Werkzeug==1.0.1
